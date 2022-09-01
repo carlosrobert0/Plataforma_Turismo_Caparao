@@ -93,7 +93,7 @@ export function Subscribe() {
                 disabled={loading}
                 className="mt-4 bg-green-500 uppercase py-4 rounded font-bold text-sm hover:bg-green-700 transition-colors disabled:opacity-50"
               >
-                Garantir minha imersão
+                Garantir minha experiência
               </button>
             </form>
           </div>
@@ -132,7 +132,7 @@ export function Subscribe() {
           description="Montanha"
         />
       </div>
-      <div className="bg-transparent mt-20 mb-10">entre outros destinos</div>
+      <div className="bg-transparent mt-20 mb-10">dentre outros destinos</div>
     </div>
   )
 }
